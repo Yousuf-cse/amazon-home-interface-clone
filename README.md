@@ -1,2 +1,4 @@
-# amazon-home-interface-clone
-This project is a clone of the Amazon home interface, built to demonstrate proficiency in web development technologies. It replicates the look and feel of the Amazon homepage, including key features like product listings, banners and navigation.<br> #Technologies Used - HTML5 - CSS3
+Development of this repository is currently in a halt, due to lack of time. Updates are comming end of July.
+
+working again ; ) I am very busy at the moment so I would be very thankful for contributions and PR's
+
