@@ -3,7 +3,7 @@
 A simple **Amazon home page clone** built using **HTML and CSS** during my learning period.  
 This project was created to practice frontend skills such as layout building, styling, and responsiveness.  
 
-🌐 **Live Demo**: [View Deployed Project](https://vercel.com/teamyousuf/amazon-home-interface-clone)  
+🌐 **Live Demo**: [Amazon Home Interface](https://amazon-home-interface-clone.vercel.app/)  
 
 ---
 
