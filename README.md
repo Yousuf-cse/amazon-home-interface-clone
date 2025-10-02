@@ -21,7 +21,7 @@ This project was created to practice frontend skills such as layout building, st
 ---
 
 ## 📷 Screenshots  
-![Amazon Clone Screenshot](images/amazon-page.png)
+![Amazon Clone Screenshot](ProjectAmazon_clone/amazon-landing.jpg)
 
 ---
 
