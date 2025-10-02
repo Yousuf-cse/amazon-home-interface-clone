@@ -1,4 +1,45 @@
-Development of this repository is currently in a halt, due to lack of time. Updates are comming end of July.
+# 🛒 Amazon Home Page Clone  
 
-working again ; ) I am very busy at the moment so I would be very thankful for contributions and PR's
+A simple **Amazon home page clone** built using **HTML and CSS** during my learning period.  
+This project was created to practice frontend skills such as layout building, styling, and responsiveness.  
 
+🌐 **Live Demo**: [View Deployed Project](https://vercel.com/teamyousuf/amazon-home-interface-clone)  
+
+---
+
+## 🚀 Features  
+- Amazon-like landing page UI  
+- Navigation bar with logo & search section (non-functional)  
+- Product/category grid section   
+
+---
+
+## 🛠️ Tech Stack  
+- **HTML5** – structure  
+- **CSS3** – styling & layout  
+
+---
+
+## 📷 Screenshots  
+![Amazon Clone Screenshot](images/amazon-page.png)
+
+---
+
+## 📚 Learning Outcomes  
+- Practiced **semantic HTML**  
+- Improved **CSS skills** (flexbox, grid, positioning)  
+- Learned how to structure and style a large page  
+
+---
+
+## 🤝 Contributing  
+This is just a learning project, but if you’d like to improve it, feel free to fork the repo and create a pull request.  
+
+---
+
+## 📩 Contact  
+If you have any feedback or suggestions, feel free to connect with me!  
+
+---
+
+✨ *Built with ❤️ while learning frontend development.*  
